@@ -1,4 +1,6 @@
 ## Hi there 👋
+## I am a student in UCAS, I am eager to learn on GitHub and contribute my part to this community.
+
 
 <!--
 **Miranda1998/Miranda1998** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
